@@ -1,0 +1,2198 @@
+[
+  {
+    "region_id": -29,
+    "matched_legend_id": 28,
+    "match_score": null,
+    "symbol_final": "γ",
+    "legend_text": "(角闪石)黑云母二长花岗岩",
+    "legend_color_name": "violet",
+    "area_px": -1
+  },
+  {
+    "region_id": -35,
+    "matched_legend_id": 34,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "不明地质体",
+    "legend_color_name": "lavender",
+    "area_px": -1
+  },
+  {
+    "region_id": -19,
+    "matched_legend_id": 18,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "黑云母二长花岗岩",
+    "legend_color_name": "palevioletred",
+    "area_px": -1
+  },
+  {
+    "region_id": -15,
+    "matched_legend_id": 14,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "同位素年龄值\n同位素测定方法",
+    "legend_color_name": "gainsboro",
+    "area_px": -1
+  },
+  {
+    "region_id": -43,
+    "matched_legend_id": 42,
+    "match_score": null,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": -1
+  },
+  {
+    "region_id": -52,
+    "matched_legend_id": 51,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "火山口",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -54,
+    "matched_legend_id": 53,
+    "match_score": null,
+    "symbol_final": "γ",
+    "legend_text": "花岗闪长岩",
+    "legend_color_name": "tomato",
+    "area_px": -1
+  },
+  {
+    "region_id": -38,
+    "matched_legend_id": 37,
+    "match_score": null,
+    "symbol_final": "γ₂ᴾᵗ",
+    "legend_text": "绿泥石化",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -18,
+    "matched_legend_id": 17,
+    "match_score": null,
+    "symbol_final": "黄铁矿化",
+    "legend_text": "黄铁矿化",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -65,
+    "matched_legend_id": 64,
+    "match_score": null,
+    "symbol_final": "γT³",
+    "legend_text": "花岗岩",
+    "legend_color_name": "darksalmon",
+    "area_px": -1
+  },
+  {
+    "region_id": -39,
+    "matched_legend_id": 38,
+    "match_score": null,
+    "symbol_final": "Pt₂",
+    "legend_text": "砾岩",
+    "legend_color_name": "linen",
+    "area_px": -1
+  },
+  {
+    "region_id": -53,
+    "matched_legend_id": 52,
+    "match_score": null,
+    "symbol_final": "γπ",
+    "legend_text": "花岗斑岩",
+    "legend_color_name": "tomato",
+    "area_px": -1
+  },
+  {
+    "region_id": -32,
+    "matched_legend_id": 31,
+    "match_score": null,
+    "symbol_final": "γ₅",
+    "legend_text": "混合火山樨",
+    "legend_color_name": "gainsboro",
+    "area_px": -1
+  },
+  {
+    "region_id": -11,
+    "matched_legend_id": 10,
+    "match_score": null,
+    "symbol_final": "Unknown",
+    "legend_text": "石炭纪",
+    "legend_color_name": "crimson",
+    "area_px": -1
+  },
+  {
+    "region_id": -34,
+    "matched_legend_id": 33,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "碎屑火山锥",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -13,
+    "matched_legend_id": 12,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "池板群：石英云母片岩、长石石英岩 偶含斜长片麻岩",
+    "legend_color_name": "wheat",
+    "area_px": -1
+  },
+  {
+    "region_id": -49,
+    "matched_legend_id": 48,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "熔岩火山锥",
+    "legend_color_name": "gainsboro",
+    "area_px": -1
+  },
+  {
+    "region_id": -7,
+    "matched_legend_id": 6,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "陇西组：变质石英细砂岩、粉砂岩、绢云板岩、黑云细云板岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": -1
+  },
+  {
+    "region_id": -59,
+    "matched_legend_id": 58,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": -1
+  },
+  {
+    "region_id": -21,
+    "matched_legend_id": 20,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "空列村组: 石英岩、绢云石英粉细砂岩、绢云板岩、结晶灰岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": -1
+  },
+  {
+    "region_id": -37,
+    "matched_legend_id": 36,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "火山迹地范围",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -61,
+    "matched_legend_id": 60,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": -1
+  },
+  {
+    "region_id": -23,
+    "matched_legend_id": 22,
+    "match_score": null,
+    "symbol_final": "η³₃",
+    "legend_text": "将测产状",
+    "legend_color_name": "gainsboro",
+    "area_px": -1
+  },
+  {
+    "region_id": -5,
+    "matched_legend_id": 4,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": -1
+  },
+  {
+    "region_id": -30,
+    "matched_legend_id": 29,
+    "match_score": null,
+    "symbol_final": "地层不整合接触界线",
+    "legend_text": "地层不整合接触界线",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -14,
+    "matched_legend_id": 13,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "昌头组—长昌组：砂砾岩、砂岩、泥岩、油页岩、煤质页岩、煤层",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -20,
+    "matched_legend_id": 19,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "实(推)测地质界线",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -24,
+    "matched_legend_id": 23,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "瓦窑组：不等粒砂岩、细砾岩、泥岩\n含油泥岩",
+    "legend_color_name": "palegoldenrod",
+    "area_px": -1
+  },
+  {
+    "region_id": -10,
+    "matched_legend_id": 9,
+    "match_score": null,
+    "symbol_final": "F₁",
+    "legend_text": "区域性大断裂",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -64,
+    "matched_legend_id": 63,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "隐伏或物探推测断层",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -58,
+    "matched_legend_id": 57,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": -1
+  },
+  {
+    "region_id": -22,
+    "matched_legend_id": 21,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "推测性质不明断层",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -3,
+    "matched_legend_id": 2,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "海口组：粘土、粉砂质粘土、含泥质沉凝灰岩、贝壳碎屑岩",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -25,
+    "matched_legend_id": 24,
+    "match_score": null,
+    "symbol_final": "实测性质不明断层",
+    "legend_text": "实测性质不明断层",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -17,
+    "matched_legend_id": 16,
+    "match_score": null,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -40,
+    "matched_legend_id": 39,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "实测逆断层倾向及倾角",
+    "legend_color_name": "lavender",
+    "area_px": -1
+  },
+  {
+    "region_id": -9,
+    "matched_legend_id": 8,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -48,
+    "matched_legend_id": 47,
+    "match_score": null,
+    "symbol_final": "实测正断层倾向及倾角",
+    "legend_text": "实测正断层倾向及倾角",
+    "legend_color_name": "gainsboro",
+    "area_px": -1
+  },
+  {
+    "region_id": -26,
+    "matched_legend_id": 25,
+    "match_score": null,
+    "symbol_final": "Qp₁",
+    "legend_text": "下更新统：玄武岩",
+    "legend_color_name": "limegreen",
+    "area_px": -1
+  },
+  {
+    "region_id": -33,
+    "matched_legend_id": 32,
+    "match_score": null,
+    "symbol_final": "ν₁",
+    "legend_text": "基性岩脉:ν 辉长岩",
+    "legend_color_name": "beige",
+    "area_px": -1
+  },
+  {
+    "region_id": -8,
+    "matched_legend_id": 7,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "北海组：亚砂土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -45,
+    "matched_legend_id": 44,
+    "match_score": null,
+    "symbol_final": "δ",
+    "legend_text": "中性岩脉: δ 闪长岩",
+    "legend_color_name": "lightcyan",
+    "area_px": -1
+  },
+  {
+    "region_id": -63,
+    "matched_legend_id": 62,
+    "match_score": null,
+    "symbol_final": "βQp2",
+    "legend_text": "中更新统：玄武岩",
+    "legend_color_name": "lightgreen",
+    "area_px": -1
+  },
+  {
+    "region_id": -56,
+    "matched_legend_id": 55,
+    "match_score": null,
+    "symbol_final": "γ₅",
+    "legend_text": "酸性岩脉: γ¹ 花岗岩 γ¹ 花岗斑岩",
+    "legend_color_name": "mistyrose",
+    "area_px": -1
+  },
+  {
+    "region_id": -2,
+    "matched_legend_id": 1,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "道堂组一段：橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -28,
+    "matched_legend_id": 27,
+    "match_score": null,
+    "symbol_final": "q",
+    "legend_text": "石英脉",
+    "legend_color_name": "lavender",
+    "area_px": -1
+  },
+  {
+    "region_id": -12,
+    "matched_legend_id": 11,
+    "match_score": null,
+    "symbol_final": "T²d₂",
+    "legend_text": "道登组二段：玄武质沉岩屑晶屑凝灰岩、凝灰质含砾砂岩",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -47,
+    "matched_legend_id": 46,
+    "match_score": null,
+    "symbol_final": "T²f",
+    "legend_text": "玄武质熔岩",
+    "legend_color_name": "gainsboro",
+    "area_px": -1
+  },
+  {
+    "region_id": -16,
+    "matched_legend_id": 15,
+    "match_score": null,
+    "symbol_final": "β",
+    "legend_text": "道苴组三段: 橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -41,
+    "matched_legend_id": 40,
+    "match_score": null,
+    "symbol_final": "β^K",
+    "legend_text": "橄榄玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -27,
+    "matched_legend_id": 26,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "渣砬子组四段：玄武质沉积岩夹晶屑凝灰岩、沉火山角砾岩",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -44,
+    "matched_legend_id": 43,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "道金制: 玄武岩、沉凝灰岩",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -46,
+    "matched_legend_id": 45,
+    "match_score": null,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -31,
+    "matched_legend_id": 30,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "八所组：粉细砂，含细砾中粗砂",
+    "legend_color_name": "gold",
+    "area_px": -1
+  },
+  {
+    "region_id": -55,
+    "matched_legend_id": 54,
+    "match_score": null,
+    "symbol_final": "γδ",
+    "legend_text": "花岗闪长岩",
+    "legend_color_name": "lightgray",
+    "area_px": -1
+  },
+  {
+    "region_id": -6,
+    "matched_legend_id": 5,
+    "match_score": null,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": -1
+  },
+  {
+    "region_id": -62,
+    "matched_legend_id": 61,
+    "match_score": null,
+    "symbol_final": "γ",
+    "legend_text": "中粗粒二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": -1
+  },
+  {
+    "region_id": -60,
+    "matched_legend_id": 59,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "石山组: 橄榄玄武岩、含火山角砾橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -57,
+    "matched_legend_id": 56,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": -1
+  },
+  {
+    "region_id": -42,
+    "matched_legend_id": 41,
+    "match_score": null,
+    "symbol_final": "γ",
+    "legend_text": "花岗岩",
+    "legend_color_name": "gainsboro",
+    "area_px": -1
+  },
+  {
+    "region_id": -1,
+    "matched_legend_id": 0,
+    "match_score": null,
+    "symbol_final": "J₁",
+    "legend_text": "瞰山组：亚粘土、有机质粘土、砂",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -51,
+    "matched_legend_id": 50,
+    "match_score": null,
+    "symbol_final": "γ5¹",
+    "legend_text": "花岗斑岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": -1
+  },
+  {
+    "region_id": -4,
+    "matched_legend_id": 3,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "烟墩组：砂砾、砂、粘土、海绵岩",
+    "legend_color_name": "khaki",
+    "area_px": -1
+  },
+  {
+    "region_id": -50,
+    "matched_legend_id": 49,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "冲积层: 粗砂卵砂夹亚砂土层",
+    "legend_color_name": "palegoldenrod",
+    "area_px": -1
+  },
+  {
+    "region_id": -36,
+    "matched_legend_id": 35,
+    "match_score": null,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": -1
+  },
+  {
+    "region_id": 0,
+    "matched_legend_id": 63,
+    "match_score": 0.393,
+    "symbol_final": null,
+    "legend_text": "隐伏或物探推测断层",
+    "legend_color_name": "whitesmoke",
+    "area_px": 2021
+  },
+  {
+    "region_id": 1,
+    "matched_legend_id": 58,
+    "match_score": 0.8549,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 1450
+  },
+  {
+    "region_id": 2,
+    "matched_legend_id": 58,
+    "match_score": 0.9025,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 15832
+  },
+  {
+    "region_id": 3,
+    "matched_legend_id": 53,
+    "match_score": 0.2478,
+    "symbol_final": "γ",
+    "legend_text": "花岗闪长岩",
+    "legend_color_name": "tomato",
+    "area_px": 6466
+  },
+  {
+    "region_id": 4,
+    "matched_legend_id": 10,
+    "match_score": 0.4751,
+    "symbol_final": "Unknown",
+    "legend_text": "石炭纪",
+    "legend_color_name": "crimson",
+    "area_px": 5468
+  },
+  {
+    "region_id": 5,
+    "matched_legend_id": 53,
+    "match_score": 0.3409,
+    "symbol_final": "γ",
+    "legend_text": "花岗闪长岩",
+    "legend_color_name": "tomato",
+    "area_px": 937
+  },
+  {
+    "region_id": 6,
+    "matched_legend_id": 1,
+    "match_score": 0.8352,
+    "symbol_final": null,
+    "legend_text": "道堂组一段：橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": 289380
+  },
+  {
+    "region_id": 7,
+    "matched_legend_id": 60,
+    "match_score": 0.6244,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 6684
+  },
+  {
+    "region_id": 8,
+    "matched_legend_id": 60,
+    "match_score": 0.6978,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 7225
+  },
+  {
+    "region_id": 9,
+    "matched_legend_id": 60,
+    "match_score": 0.6531,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 3401
+  },
+  {
+    "region_id": 10,
+    "matched_legend_id": 54,
+    "match_score": 0.6453,
+    "symbol_final": "γδ",
+    "legend_text": "花岗闪长岩",
+    "legend_color_name": "lightgray",
+    "area_px": 1047
+  },
+  {
+    "region_id": 11,
+    "matched_legend_id": 60,
+    "match_score": 0.427,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 2507
+  },
+  {
+    "region_id": 12,
+    "matched_legend_id": 60,
+    "match_score": 0.6135,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 3833
+  },
+  {
+    "region_id": 13,
+    "matched_legend_id": 58,
+    "match_score": 0.7716,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 3158
+  },
+  {
+    "region_id": 14,
+    "matched_legend_id": 2,
+    "match_score": 0.2132,
+    "symbol_final": null,
+    "legend_text": "海口组：粘土、粉砂质粘土、含泥质沉凝灰岩、贝壳碎屑岩",
+    "legend_color_name": "khaki",
+    "area_px": 8086
+  },
+  {
+    "region_id": 15,
+    "matched_legend_id": 45,
+    "match_score": 0.8184,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": 8188
+  },
+  {
+    "region_id": 16,
+    "matched_legend_id": 45,
+    "match_score": 0.8222,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": 7525
+  },
+  {
+    "region_id": 17,
+    "matched_legend_id": 45,
+    "match_score": 0.8213,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": 7743
+  },
+  {
+    "region_id": 18,
+    "matched_legend_id": 60,
+    "match_score": 0.8453,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 17794
+  },
+  {
+    "region_id": 19,
+    "matched_legend_id": 56,
+    "match_score": 0.6621,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 515
+  },
+  {
+    "region_id": 20,
+    "matched_legend_id": 3,
+    "match_score": 0.5749,
+    "symbol_final": null,
+    "legend_text": "烟墩组：砂砾、砂、粘土、海绵岩",
+    "legend_color_name": "khaki",
+    "area_px": 18304
+  },
+  {
+    "region_id": 21,
+    "matched_legend_id": 3,
+    "match_score": 0.7538,
+    "symbol_final": null,
+    "legend_text": "烟墩组：砂砾、砂、粘土、海绵岩",
+    "legend_color_name": "khaki",
+    "area_px": 26696
+  },
+  {
+    "region_id": 22,
+    "matched_legend_id": 60,
+    "match_score": 0.0843,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 20729
+  },
+  {
+    "region_id": 23,
+    "matched_legend_id": 5,
+    "match_score": 0.8488,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 56963
+  },
+  {
+    "region_id": 24,
+    "matched_legend_id": 60,
+    "match_score": 0.8673,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 5206
+  },
+  {
+    "region_id": 25,
+    "matched_legend_id": 60,
+    "match_score": 0.1047,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 12841
+  },
+  {
+    "region_id": 26,
+    "matched_legend_id": 59,
+    "match_score": 0.8239,
+    "symbol_final": null,
+    "legend_text": "石山组: 橄榄玄武岩、含火山角砾橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": 10717
+  },
+  {
+    "region_id": 27,
+    "matched_legend_id": 30,
+    "match_score": 0.7302,
+    "symbol_final": null,
+    "legend_text": "八所组：粉细砂，含细砾中粗砂",
+    "legend_color_name": "gold",
+    "area_px": 21453
+  },
+  {
+    "region_id": 28,
+    "matched_legend_id": 8,
+    "match_score": 0.8177,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 1037
+  },
+  {
+    "region_id": 29,
+    "matched_legend_id": 0,
+    "match_score": 0.814,
+    "symbol_final": "J₁",
+    "legend_text": "瞰山组：亚粘土、有机质粘土、砂",
+    "legend_color_name": "khaki",
+    "area_px": 9105
+  },
+  {
+    "region_id": 30,
+    "matched_legend_id": 16,
+    "match_score": 0.8433,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 33023
+  },
+  {
+    "region_id": 31,
+    "matched_legend_id": 12,
+    "match_score": 0.3631,
+    "symbol_final": null,
+    "legend_text": "池板群：石英云母片岩、长石石英岩 偶含斜长片麻岩",
+    "legend_color_name": "wheat",
+    "area_px": 5813
+  },
+  {
+    "region_id": 32,
+    "matched_legend_id": 8,
+    "match_score": 0.7929,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 50651
+  },
+  {
+    "region_id": 33,
+    "matched_legend_id": 4,
+    "match_score": 0.65,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": 10253
+  },
+  {
+    "region_id": 34,
+    "matched_legend_id": 16,
+    "match_score": 0.8393,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 5989
+  },
+  {
+    "region_id": 35,
+    "matched_legend_id": 59,
+    "match_score": 0.2062,
+    "symbol_final": null,
+    "legend_text": "石山组: 橄榄玄武岩、含火山角砾橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": 2603
+  },
+  {
+    "region_id": 36,
+    "matched_legend_id": 45,
+    "match_score": 0.8315,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": 5716
+  },
+  {
+    "region_id": 37,
+    "matched_legend_id": 5,
+    "match_score": 0.8476,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 39308
+  },
+  {
+    "region_id": 38,
+    "matched_legend_id": 43,
+    "match_score": 0.8024,
+    "symbol_final": null,
+    "legend_text": "道金制: 玄武岩、沉凝灰岩",
+    "legend_color_name": "khaki",
+    "area_px": 1173
+  },
+  {
+    "region_id": 39,
+    "matched_legend_id": 16,
+    "match_score": 0.8472,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 20865
+  },
+  {
+    "region_id": 40,
+    "matched_legend_id": 4,
+    "match_score": 0.4961,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": 24758
+  },
+  {
+    "region_id": 41,
+    "matched_legend_id": 56,
+    "match_score": 0.8215,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 699
+  },
+  {
+    "region_id": 42,
+    "matched_legend_id": 16,
+    "match_score": 0.8419,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 6889
+  },
+  {
+    "region_id": 43,
+    "matched_legend_id": 16,
+    "match_score": 0.8419,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 26357
+  },
+  {
+    "region_id": 44,
+    "matched_legend_id": 56,
+    "match_score": 0.7397,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 967
+  },
+  {
+    "region_id": 45,
+    "matched_legend_id": 1,
+    "match_score": 0.7654,
+    "symbol_final": null,
+    "legend_text": "道堂组一段：橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": 18047
+  },
+  {
+    "region_id": 46,
+    "matched_legend_id": 35,
+    "match_score": 0.7548,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 11927
+  },
+  {
+    "region_id": 47,
+    "matched_legend_id": 25,
+    "match_score": 0.3506,
+    "symbol_final": "Qp₁",
+    "legend_text": "下更新统：玄武岩",
+    "legend_color_name": "limegreen",
+    "area_px": 1791
+  },
+  {
+    "region_id": 48,
+    "matched_legend_id": 16,
+    "match_score": 0.8422,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 24129
+  },
+  {
+    "region_id": 49,
+    "matched_legend_id": 8,
+    "match_score": 0.8793,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 4654
+  },
+  {
+    "region_id": 50,
+    "matched_legend_id": 35,
+    "match_score": 0.7606,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 1958
+  },
+  {
+    "region_id": 51,
+    "matched_legend_id": 8,
+    "match_score": 0.8499,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 3458
+  },
+  {
+    "region_id": 52,
+    "matched_legend_id": 16,
+    "match_score": 0.7671,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 755
+  },
+  {
+    "region_id": 53,
+    "matched_legend_id": 8,
+    "match_score": 0.7999,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 608
+  },
+  {
+    "region_id": 54,
+    "matched_legend_id": 56,
+    "match_score": 0.8196,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 1116
+  },
+  {
+    "region_id": 55,
+    "matched_legend_id": 35,
+    "match_score": 0.7685,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 1171
+  },
+  {
+    "region_id": 56,
+    "matched_legend_id": 8,
+    "match_score": 0.7615,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 52505
+  },
+  {
+    "region_id": 57,
+    "matched_legend_id": 42,
+    "match_score": 0.7135,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 814
+  },
+  {
+    "region_id": 58,
+    "matched_legend_id": 56,
+    "match_score": 0.8588,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 1183
+  },
+  {
+    "region_id": 59,
+    "matched_legend_id": 5,
+    "match_score": 0.7869,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 4586
+  },
+  {
+    "region_id": 60,
+    "matched_legend_id": 5,
+    "match_score": 0.8613,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 20288
+  },
+  {
+    "region_id": 61,
+    "matched_legend_id": 5,
+    "match_score": 0.8468,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 41658
+  },
+  {
+    "region_id": 62,
+    "matched_legend_id": 58,
+    "match_score": 0.7535,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 960
+  },
+  {
+    "region_id": 63,
+    "matched_legend_id": 58,
+    "match_score": 0.5076,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 5245
+  },
+  {
+    "region_id": 64,
+    "matched_legend_id": 8,
+    "match_score": 0.757,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 27468
+  },
+  {
+    "region_id": 65,
+    "matched_legend_id": 16,
+    "match_score": 0.8424,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 63583
+  },
+  {
+    "region_id": 66,
+    "matched_legend_id": 58,
+    "match_score": 0.3751,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 5415
+  },
+  {
+    "region_id": 67,
+    "matched_legend_id": 5,
+    "match_score": 0.8474,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 74047
+  },
+  {
+    "region_id": 68,
+    "matched_legend_id": 35,
+    "match_score": 0.7255,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 33649
+  },
+  {
+    "region_id": 69,
+    "matched_legend_id": 35,
+    "match_score": 0.7064,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 536
+  },
+  {
+    "region_id": 70,
+    "matched_legend_id": 42,
+    "match_score": 0.83,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 8834
+  },
+  {
+    "region_id": 71,
+    "matched_legend_id": 4,
+    "match_score": 0.5113,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": 14395
+  },
+  {
+    "region_id": 72,
+    "matched_legend_id": 42,
+    "match_score": 0.7433,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 1625
+  },
+  {
+    "region_id": 73,
+    "matched_legend_id": 35,
+    "match_score": 0.7544,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 32245
+  },
+  {
+    "region_id": 74,
+    "matched_legend_id": 28,
+    "match_score": 0.6639,
+    "symbol_final": "γ",
+    "legend_text": "(角闪石)黑云母二长花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 623
+  },
+  {
+    "region_id": 75,
+    "matched_legend_id": 56,
+    "match_score": 0.7066,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 866
+  },
+  {
+    "region_id": 76,
+    "matched_legend_id": 4,
+    "match_score": 0.7806,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": 5150
+  },
+  {
+    "region_id": 77,
+    "matched_legend_id": 56,
+    "match_score": 0.5444,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 551
+  },
+  {
+    "region_id": 78,
+    "matched_legend_id": 60,
+    "match_score": 0.7886,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 519
+  },
+  {
+    "region_id": 79,
+    "matched_legend_id": 60,
+    "match_score": 0.8031,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 3636
+  },
+  {
+    "region_id": 80,
+    "matched_legend_id": 60,
+    "match_score": 0.7891,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 3017
+  },
+  {
+    "region_id": 81,
+    "matched_legend_id": 57,
+    "match_score": 0.8331,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 33442
+  },
+  {
+    "region_id": 82,
+    "matched_legend_id": 5,
+    "match_score": 0.4202,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 22194
+  },
+  {
+    "region_id": 83,
+    "matched_legend_id": 5,
+    "match_score": 0.4308,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 9245
+  },
+  {
+    "region_id": 84,
+    "matched_legend_id": 56,
+    "match_score": 0.5649,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 1757
+  },
+  {
+    "region_id": 85,
+    "matched_legend_id": 1,
+    "match_score": 0.8506,
+    "symbol_final": null,
+    "legend_text": "道堂组一段：橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": 53038
+  },
+  {
+    "region_id": 86,
+    "matched_legend_id": 56,
+    "match_score": 0.8535,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 1401
+  },
+  {
+    "region_id": 87,
+    "matched_legend_id": 12,
+    "match_score": 0.6606,
+    "symbol_final": null,
+    "legend_text": "池板群：石英云母片岩、长石石英岩 偶含斜长片麻岩",
+    "legend_color_name": "wheat",
+    "area_px": 1499
+  },
+  {
+    "region_id": 88,
+    "matched_legend_id": 5,
+    "match_score": 0.8229,
+    "symbol_final": "Qh",
+    "legend_text": "全新统(未分):砂砾、砂、粘土",
+    "legend_color_name": "yellow",
+    "area_px": 9869
+  },
+  {
+    "region_id": 89,
+    "matched_legend_id": 35,
+    "match_score": 0.8209,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 1932
+  },
+  {
+    "region_id": 90,
+    "matched_legend_id": 16,
+    "match_score": 0.8397,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 6845
+  },
+  {
+    "region_id": 91,
+    "matched_legend_id": 42,
+    "match_score": 0.8063,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 898
+  },
+  {
+    "region_id": 92,
+    "matched_legend_id": 35,
+    "match_score": 0.8383,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 28016
+  },
+  {
+    "region_id": 93,
+    "matched_legend_id": 42,
+    "match_score": 0.8459,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 622
+  },
+  {
+    "region_id": 94,
+    "matched_legend_id": 42,
+    "match_score": 0.7745,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 16392
+  },
+  {
+    "region_id": 95,
+    "matched_legend_id": 8,
+    "match_score": 0.7745,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 534
+  },
+  {
+    "region_id": 96,
+    "matched_legend_id": 62,
+    "match_score": 0.4845,
+    "symbol_final": "βQp2",
+    "legend_text": "中更新统：玄武岩",
+    "legend_color_name": "lightgreen",
+    "area_px": 1347
+  },
+  {
+    "region_id": 97,
+    "matched_legend_id": 25,
+    "match_score": 0.5102,
+    "symbol_final": "Qp₁",
+    "legend_text": "下更新统：玄武岩",
+    "legend_color_name": "limegreen",
+    "area_px": 12929
+  },
+  {
+    "region_id": 98,
+    "matched_legend_id": 57,
+    "match_score": 0.825,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 781
+  },
+  {
+    "region_id": 99,
+    "matched_legend_id": 16,
+    "match_score": 0.8438,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 13815
+  },
+  {
+    "region_id": 100,
+    "matched_legend_id": 53,
+    "match_score": 0.4302,
+    "symbol_final": "γ",
+    "legend_text": "花岗闪长岩",
+    "legend_color_name": "tomato",
+    "area_px": 5830
+  },
+  {
+    "region_id": 101,
+    "matched_legend_id": 35,
+    "match_score": 0.7955,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 7485
+  },
+  {
+    "region_id": 102,
+    "matched_legend_id": 4,
+    "match_score": 0.3188,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": 6343
+  },
+  {
+    "region_id": 103,
+    "matched_legend_id": 6,
+    "match_score": 0.5214,
+    "symbol_final": null,
+    "legend_text": "陇西组：变质石英细砂岩、粉砂岩、绢云板岩、黑云细云板岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": 6048
+  },
+  {
+    "region_id": 104,
+    "matched_legend_id": 4,
+    "match_score": 0.5387,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": 42700
+  },
+  {
+    "region_id": 105,
+    "matched_legend_id": 4,
+    "match_score": 0.1537,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": 71659
+  },
+  {
+    "region_id": 106,
+    "matched_legend_id": 57,
+    "match_score": 0.8297,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 89220
+  },
+  {
+    "region_id": 107,
+    "matched_legend_id": 35,
+    "match_score": 0.7016,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 32704
+  },
+  {
+    "region_id": 108,
+    "matched_legend_id": 62,
+    "match_score": 0.4915,
+    "symbol_final": "βQp2",
+    "legend_text": "中更新统：玄武岩",
+    "legend_color_name": "lightgreen",
+    "area_px": 1628
+  },
+  {
+    "region_id": 109,
+    "matched_legend_id": 60,
+    "match_score": 0.2548,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 65574
+  },
+  {
+    "region_id": 110,
+    "matched_legend_id": 20,
+    "match_score": 0.7764,
+    "symbol_final": null,
+    "legend_text": "空列村组: 石英岩、绢云石英粉细砂岩、绢云板岩、结晶灰岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": 10432
+  },
+  {
+    "region_id": 111,
+    "matched_legend_id": 16,
+    "match_score": 0.8355,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 1190
+  },
+  {
+    "region_id": 112,
+    "matched_legend_id": 60,
+    "match_score": 0.3892,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 27359
+  },
+  {
+    "region_id": 113,
+    "matched_legend_id": 35,
+    "match_score": 0.7478,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 10364
+  },
+  {
+    "region_id": 114,
+    "matched_legend_id": 3,
+    "match_score": 0.6333,
+    "symbol_final": null,
+    "legend_text": "烟墩组：砂砾、砂、粘土、海绵岩",
+    "legend_color_name": "khaki",
+    "area_px": 19383
+  },
+  {
+    "region_id": 115,
+    "matched_legend_id": 35,
+    "match_score": 0.8911,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 19598
+  },
+  {
+    "region_id": 116,
+    "matched_legend_id": 25,
+    "match_score": 0.4593,
+    "symbol_final": "Qp₁",
+    "legend_text": "下更新统：玄武岩",
+    "legend_color_name": "limegreen",
+    "area_px": 1810
+  },
+  {
+    "region_id": 117,
+    "matched_legend_id": 54,
+    "match_score": 0.4593,
+    "symbol_final": "γδ",
+    "legend_text": "花岗闪长岩",
+    "legend_color_name": "lightgray",
+    "area_px": 1054
+  },
+  {
+    "region_id": 118,
+    "matched_legend_id": 60,
+    "match_score": 0.5949,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 32019
+  },
+  {
+    "region_id": 119,
+    "matched_legend_id": 56,
+    "match_score": 0.7091,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 24358
+  },
+  {
+    "region_id": 120,
+    "matched_legend_id": 60,
+    "match_score": 0.6325,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 16643
+  },
+  {
+    "region_id": 121,
+    "matched_legend_id": 16,
+    "match_score": 0.8424,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 13803
+  },
+  {
+    "region_id": 122,
+    "matched_legend_id": 8,
+    "match_score": 0.778,
+    "symbol_final": null,
+    "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 603
+  },
+  {
+    "region_id": 123,
+    "matched_legend_id": 20,
+    "match_score": 0.7913,
+    "symbol_final": null,
+    "legend_text": "空列村组: 石英岩、绢云石英粉细砂岩、绢云板岩、结晶灰岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": 1060
+  },
+  {
+    "region_id": 124,
+    "matched_legend_id": 28,
+    "match_score": 0.7052,
+    "symbol_final": "γ",
+    "legend_text": "(角闪石)黑云母二长花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 28380
+  },
+  {
+    "region_id": 125,
+    "matched_legend_id": 25,
+    "match_score": 0.6621,
+    "symbol_final": "Qp₁",
+    "legend_text": "下更新统：玄武岩",
+    "legend_color_name": "limegreen",
+    "area_px": 1875
+  },
+  {
+    "region_id": 126,
+    "matched_legend_id": 4,
+    "match_score": 0.4393,
+    "symbol_final": null,
+    "legend_text": "迪母符组：砂砾岩、长石石类砂岩、粉砂岩、泥岩、安山-基安屑火山岩",
+    "legend_color_name": "greenyellow",
+    "area_px": 8221
+  },
+  {
+    "region_id": 127,
+    "matched_legend_id": 57,
+    "match_score": 0.8401,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 26579
+  },
+  {
+    "region_id": 128,
+    "matched_legend_id": 20,
+    "match_score": 0.7174,
+    "symbol_final": null,
+    "legend_text": "空列村组: 石英岩、绢云石英粉细砂岩、绢云板岩、结晶灰岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": 1782
+  },
+  {
+    "region_id": 129,
+    "matched_legend_id": 42,
+    "match_score": 0.6309,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 529
+  },
+  {
+    "region_id": 130,
+    "matched_legend_id": 35,
+    "match_score": 0.7768,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 57106
+  },
+  {
+    "region_id": 131,
+    "matched_legend_id": 42,
+    "match_score": 0.7857,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 7465
+  },
+  {
+    "region_id": 132,
+    "matched_legend_id": 64,
+    "match_score": 0.7047,
+    "symbol_final": "γT³",
+    "legend_text": "花岗岩",
+    "legend_color_name": "darksalmon",
+    "area_px": 39113
+  },
+  {
+    "region_id": 133,
+    "matched_legend_id": 6,
+    "match_score": 0.2626,
+    "symbol_final": null,
+    "legend_text": "陇西组：变质石英细砂岩、粉砂岩、绢云板岩、黑云细云板岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": 46363
+  },
+  {
+    "region_id": 134,
+    "matched_legend_id": 57,
+    "match_score": 0.8507,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 2598
+  },
+  {
+    "region_id": 135,
+    "matched_legend_id": 62,
+    "match_score": 0.4348,
+    "symbol_final": "βQp2",
+    "legend_text": "中更新统：玄武岩",
+    "legend_color_name": "lightgreen",
+    "area_px": 706
+  },
+  {
+    "region_id": 136,
+    "matched_legend_id": 60,
+    "match_score": 0.6654,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 2172
+  },
+  {
+    "region_id": 137,
+    "matched_legend_id": 28,
+    "match_score": 0.5948,
+    "symbol_final": "γ",
+    "legend_text": "(角闪石)黑云母二长花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 41290
+  },
+  {
+    "region_id": 138,
+    "matched_legend_id": 12,
+    "match_score": 0.8102,
+    "symbol_final": null,
+    "legend_text": "池板群：石英云母片岩、长石石英岩 偶含斜长片麻岩",
+    "legend_color_name": "wheat",
+    "area_px": 663
+  },
+  {
+    "region_id": 139,
+    "matched_legend_id": 56,
+    "match_score": 0.5239,
+    "symbol_final": null,
+    "legend_text": "中粒斑状二长花岗岩",
+    "legend_color_name": "lightgray",
+    "area_px": 864
+  },
+  {
+    "region_id": 140,
+    "matched_legend_id": 35,
+    "match_score": 0.7471,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 2970
+  },
+  {
+    "region_id": 141,
+    "matched_legend_id": 12,
+    "match_score": 0.4771,
+    "symbol_final": null,
+    "legend_text": "池板群：石英云母片岩、长石石英岩 偶含斜长片麻岩",
+    "legend_color_name": "wheat",
+    "area_px": 726
+  },
+  {
+    "region_id": 142,
+    "matched_legend_id": 57,
+    "match_score": 0.83,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 5657
+  },
+  {
+    "region_id": 143,
+    "matched_legend_id": 16,
+    "match_score": 0.8351,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 2767
+  },
+  {
+    "region_id": 144,
+    "matched_legend_id": 45,
+    "match_score": 0.8035,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": 5496
+  },
+  {
+    "region_id": 145,
+    "matched_legend_id": 6,
+    "match_score": 0.3789,
+    "symbol_final": null,
+    "legend_text": "陇西组：变质石英细砂岩、粉砂岩、绢云板岩、黑云细云板岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": 18747
+  },
+  {
+    "region_id": 146,
+    "matched_legend_id": 12,
+    "match_score": 0.6271,
+    "symbol_final": null,
+    "legend_text": "池板群：石英云母片岩、长石石英岩 偶含斜长片麻岩",
+    "legend_color_name": "wheat",
+    "area_px": 3939
+  },
+  {
+    "region_id": 147,
+    "matched_legend_id": 41,
+    "match_score": 0.0081,
+    "symbol_final": "γ",
+    "legend_text": "花岗岩",
+    "legend_color_name": "gainsboro",
+    "area_px": 145590
+  },
+  {
+    "region_id": 148,
+    "matched_legend_id": 45,
+    "match_score": 0.8339,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": 5396
+  },
+  {
+    "region_id": 149,
+    "matched_legend_id": 42,
+    "match_score": 0.6317,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 1006
+  },
+  {
+    "region_id": 150,
+    "matched_legend_id": 35,
+    "match_score": 0.7909,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 19310
+  },
+  {
+    "region_id": 151,
+    "matched_legend_id": 62,
+    "match_score": 0.3856,
+    "symbol_final": "βQp2",
+    "legend_text": "中更新统：玄武岩",
+    "legend_color_name": "lightgreen",
+    "area_px": 2041
+  },
+  {
+    "region_id": 152,
+    "matched_legend_id": 28,
+    "match_score": 0.6308,
+    "symbol_final": "γ",
+    "legend_text": "(角闪石)黑云母二长花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 38828
+  },
+  {
+    "region_id": 153,
+    "matched_legend_id": 12,
+    "match_score": 0.787,
+    "symbol_final": null,
+    "legend_text": "池板群：石英云母片岩、长石石英岩 偶含斜长片麻岩",
+    "legend_color_name": "wheat",
+    "area_px": 2489
+  },
+  {
+    "region_id": 154,
+    "matched_legend_id": 35,
+    "match_score": 0.858,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 806
+  },
+  {
+    "region_id": 155,
+    "matched_legend_id": 18,
+    "match_score": 0.7463,
+    "symbol_final": null,
+    "legend_text": "黑云母二长花岗岩",
+    "legend_color_name": "palevioletred",
+    "area_px": 14946
+  },
+  {
+    "region_id": 156,
+    "matched_legend_id": 42,
+    "match_score": 0.9235,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 1215
+  },
+  {
+    "region_id": 157,
+    "matched_legend_id": 35,
+    "match_score": 0.7457,
+    "symbol_final": null,
+    "legend_text": "花岗岩",
+    "legend_color_name": "violet",
+    "area_px": 11712
+  },
+  {
+    "region_id": 158,
+    "matched_legend_id": 57,
+    "match_score": 0.8119,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 794
+  },
+  {
+    "region_id": 159,
+    "matched_legend_id": 13,
+    "match_score": 0.7104,
+    "symbol_final": null,
+    "legend_text": "昌头组—长昌组：砂砾岩、砂岩、泥岩、油页岩、煤质页岩、煤层",
+    "legend_color_name": "khaki",
+    "area_px": 6071
+  },
+  {
+    "region_id": 160,
+    "matched_legend_id": 57,
+    "match_score": 0.8467,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 4322
+  },
+  {
+    "region_id": 161,
+    "matched_legend_id": 43,
+    "match_score": 0.7906,
+    "symbol_final": null,
+    "legend_text": "道金制: 玄武岩、沉凝灰岩",
+    "legend_color_name": "khaki",
+    "area_px": 27327
+  },
+  {
+    "region_id": 162,
+    "matched_legend_id": 42,
+    "match_score": 0.7545,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 21441
+  },
+  {
+    "region_id": 163,
+    "matched_legend_id": 42,
+    "match_score": 0.6185,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 623
+  },
+  {
+    "region_id": 164,
+    "matched_legend_id": 20,
+    "match_score": 0.762,
+    "symbol_final": null,
+    "legend_text": "空列村组: 石英岩、绢云石英粉细砂岩、绢云板岩、结晶灰岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": 745
+  },
+  {
+    "region_id": 165,
+    "matched_legend_id": 57,
+    "match_score": 0.8485,
+    "symbol_final": null,
+    "legend_text": "石马村组—石门沟村组：玻基橄榄岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+    "legend_color_name": "wheat",
+    "area_px": 3198
+  },
+  {
+    "region_id": 166,
+    "matched_legend_id": 60,
+    "match_score": 0.1879,
+    "symbol_final": null,
+    "legend_text": "南好组—青天峡组：砾岩-砂岩、板岩、结晶灰岩",
+    "legend_color_name": "silver",
+    "area_px": 20971
+  },
+  {
+    "region_id": 167,
+    "matched_legend_id": 0,
+    "match_score": 0.773,
+    "symbol_final": "J₁",
+    "legend_text": "瞰山组：亚粘土、有机质粘土、砂",
+    "legend_color_name": "khaki",
+    "area_px": 10913
+  },
+  {
+    "region_id": 168,
+    "matched_legend_id": 42,
+    "match_score": 0.8307,
+    "symbol_final": "γ₅",
+    "legend_text": "花岗岩",
+    "legend_color_name": "indianred",
+    "area_px": 13186
+  },
+  {
+    "region_id": 169,
+    "matched_legend_id": 12,
+    "match_score": 0.7979,
+    "symbol_final": null,
+    "legend_text": "池板群：石英云母片岩、长石石英岩 偶含斜长片麻岩",
+    "legend_color_name": "wheat",
+    "area_px": 936
+  },
+  {
+    "region_id": 170,
+    "matched_legend_id": 10,
+    "match_score": 0.5905,
+    "symbol_final": "Unknown",
+    "legend_text": "石炭纪",
+    "legend_color_name": "crimson",
+    "area_px": 505
+  },
+  {
+    "region_id": 171,
+    "matched_legend_id": 16,
+    "match_score": 0.823,
+    "symbol_final": "Qp",
+    "legend_text": "更新统(未分):粘土、砂、砂砾",
+    "legend_color_name": "khaki",
+    "area_px": 1683
+  },
+  {
+    "region_id": 172,
+    "matched_legend_id": 59,
+    "match_score": 0.8373,
+    "symbol_final": null,
+    "legend_text": "石山组: 橄榄玄武岩、含火山角砾橄榄玄武岩",
+    "legend_color_name": "khaki",
+    "area_px": 672
+  },
+  {
+    "region_id": 173,
+    "matched_legend_id": 58,
+    "match_score": 0.2176,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 7503
+  },
+  {
+    "region_id": 174,
+    "matched_legend_id": 58,
+    "match_score": 0.3972,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 7857
+  },
+  {
+    "region_id": 175,
+    "matched_legend_id": 6,
+    "match_score": 0.4773,
+    "symbol_final": null,
+    "legend_text": "陇西组：变质石英细砂岩、粉砂岩、绢云板岩、黑云细云板岩",
+    "legend_color_name": "yellowgreen",
+    "area_px": 8409
+  },
+  {
+    "region_id": 176,
+    "matched_legend_id": 45,
+    "match_score": 0.7885,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": 7417
+  },
+  {
+    "region_id": 177,
+    "matched_legend_id": 58,
+    "match_score": 0.5937,
+    "symbol_final": null,
+    "legend_text": "火山盆地范围",
+    "legend_color_name": "snow",
+    "area_px": 1888
+  },
+  {
+    "region_id": 178,
+    "matched_legend_id": 45,
+    "match_score": 0.6454,
+    "symbol_final": "玄武岩",
+    "legend_text": "玄武岩",
+    "legend_color_name": "whitesmoke",
+    "area_px": 2907
+  }
+]

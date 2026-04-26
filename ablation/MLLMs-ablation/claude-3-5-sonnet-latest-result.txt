@@ -1,0 +1,724 @@
+[
+  {
+    "legend_id": 0,
+    "bbox": [
+      6707,
+      1044,
+      6851,
+      1141
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "2",
+      "subscript": "q",
+      "final_symbol": "Qh²q",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 1,
+    "bbox": [
+      6706,
+      1971,
+      6850,
+      2068
+    ],
+    "symbol": {
+      "base": "Qp",
+      "superscript": "3",
+      "subscript": "1",
+      "final_symbol": "Qp₁³",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 3,
+    "bbox": [
+      6707,
+      929,
+      6852,
+      1024
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "",
+      "subscript": "h γ",
+      "final_symbol": "Qhγ",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 4,
+    "bbox": [
+      6706,
+      3185,
+      6849,
+      3284
+    ],
+    "symbol": {
+      "base": "K",
+      "superscript": "",
+      "subscript": "1",
+      "final_symbol": "K₁",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 5,
+    "bbox": [
+      6707,
+      1286,
+      6848,
+      1382
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "",
+      "subscript": "h",
+      "final_symbol": "Qh",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 6,
+    "bbox": [
+      6705,
+      3551,
+      6846,
+      3644
+    ],
+    "symbol": {
+      "base": "S",
+      "superscript": "t",
+      "subscript": "1",
+      "final_symbol": "S₁ᵗ",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 7,
+    "bbox": [
+      6705,
+      2210,
+      6848,
+      2307
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "2",
+      "subscript": "b",
+      "final_symbol": "Qp²b",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 9,
+    "bbox": [
+      7460,
+      2927,
+      7605,
+      3025
+    ],
+    "symbol": {
+      "base": "γ",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "γ",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 10,
+    "bbox": [
+      6703,
+      3780,
+      6848,
+      3875
+    ],
+    "symbol": {
+      "base": "K",
+      "superscript": "2",
+      "subscript": "1π",
+      "final_symbol": "K₁²π",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 11,
+    "bbox": [
+      6706,
+      1853,
+      6851,
+      1951
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "3",
+      "subscript": "2",
+      "final_symbol": "Q³₂",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 12,
+    "bbox": [
+      6704,
+      3666,
+      6847,
+      3759
+    ],
+    "symbol": {
+      "base": "C",
+      "superscript": "",
+      "subscript": "1b",
+      "final_symbol": "C1b",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 13,
+    "bbox": [
+      6706,
+      3056,
+      6849,
+      3159
+    ],
+    "symbol": {
+      "base": "E",
+      "superscript": "",
+      "subscript": "1-£t-c",
+      "final_symbol": "E₁₋£ₜ₋ₖ",
+      "confidence": 0.9
+    }
+  },
+  {
+    "legend_id": 14,
+    "bbox": [
+      7464,
+      4462,
+      7612,
+      4561
+    ],
+    "symbol": {
+      "base": "O",
+      "superscript": "3.042Ma",
+      "subscript": "K-Ar",
+      "final_symbol": "O^(3.042Ma)_(K-Ar)",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 15,
+    "bbox": [
+      6707,
+      1734,
+      6851,
+      1831
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "3",
+      "subscript": "β",
+      "final_symbol": "Q₃β",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 17,
+    "bbox": [
+      7464,
+      4114,
+      7607,
+      4209
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "4",
+      "subscript": null,
+      "final_symbol": "Q⁴",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 18,
+    "bbox": [
+      6704,
+      4488,
+      6849,
+      4585
+    ],
+    "symbol": {
+      "base": "J",
+      "superscript": "",
+      "subscript": "πγ",
+      "final_symbol": "Jπγ",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 20,
+    "bbox": [
+      6706,
+      3429,
+      6847,
+      3527
+    ],
+    "symbol": {
+      "base": "S",
+      "superscript": "1",
+      "subscript": "k",
+      "final_symbol": "S₁ₖ",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 22,
+    "bbox": [
+      7461,
+      3291,
+      7608,
+      3388
+    ],
+    "symbol": {
+      "base": "15",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "15",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 23,
+    "bbox": [
+      6706,
+      2931,
+      6848,
+      3032
+    ],
+    "symbol": {
+      "base": "E",
+      "superscript": "",
+      "subscript": "2",
+      "final_symbol": "E₂w",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 24,
+    "bbox": [
+      7462,
+      2566,
+      7607,
+      2665
+    ],
+    "symbol": {
+      "base": "J₂x",
+      "superscript": "",
+      "subscript": "2x",
+      "final_symbol": "J₂x",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 25,
+    "bbox": [
+      6705,
+      2326,
+      6847,
+      2424
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "1",
+      "subscript": "p",
+      "final_symbol": "Q₁p",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 26,
+    "bbox": [
+      6708,
+      1621,
+      6851,
+      1714
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "3",
+      "subscript": "4",
+      "final_symbol": "Q₄³",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 27,
+    "bbox": [
+      7463,
+      1861,
+      7609,
+      1958
+    ],
+    "symbol": {
+      "base": "J₁",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "J₁",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 28,
+    "bbox": [
+      6705,
+      4611,
+      6850,
+      4708
+    ],
+    "symbol": {
+      "base": "γ",
+      "superscript": "η",
+      "subscript": "",
+      "final_symbol": "γη",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 30,
+    "bbox": [
+      6708,
+      1401,
+      6848,
+      1496
+    ],
+    "symbol": {
+      "base": "Qp",
+      "superscript": "3",
+      "subscript": "bs",
+      "final_symbol": "Qp³bs",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 31,
+    "bbox": [
+      7463,
+      3878,
+      7609,
+      3975
+    ],
+    "symbol": {
+      "base": "γ",
+      "superscript": "2",
+      "subscript": "5",
+      "final_symbol": "γ₅²",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 33,
+    "bbox": [
+      7462,
+      3761,
+      7608,
+      3858
+    ],
+    "symbol": {
+      "base": "J",
+      "superscript": "1",
+      "subscript": "3",
+      "final_symbol": "J₃¹",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 34,
+    "bbox": [
+      7463,
+      4584,
+      7614,
+      4687
+    ],
+    "symbol": {
+      "base": "γ",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "γ",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 35,
+    "bbox": [
+      7456,
+      797,
+      7607,
+      905
+    ],
+    "symbol": {
+      "base": "P",
+      "superscript": "",
+      "subscript": "T",
+      "final_symbol": "P T",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 36,
+    "bbox": [
+      7463,
+      3408,
+      7610,
+      3502
+    ],
+    "symbol": {
+      "base": "⊕",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "⊕",
+      "confidence": 0.95,
+      "note": "此符号为向斜褶皱的地质构造符号"
+    }
+  },
+  {
+    "legend_id": 41,
+    "bbox": [
+      7464,
+      1043,
+      7609,
+      1142
+    ],
+    "symbol": {
+      "base": "γ",
+      "superscript": "π",
+      "subscript": "3",
+      "final_symbol": "γ₃π",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 43,
+    "bbox": [
+      6708,
+      1513,
+      6849,
+      1606
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "3",
+      "subscript": "d",
+      "final_symbol": "Q³d",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 45,
+    "bbox": [
+      7457,
+      1504,
+      7612,
+      1606
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "4",
+      "subscript": "",
+      "final_symbol": "Q⁴",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 48,
+    "bbox": [
+      7463,
+      3644,
+      7607,
+      3739
+    ],
+    "symbol": {
+      "base": "Ar",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "Ar",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 49,
+    "bbox": [
+      6706,
+      806,
+      6852,
+      906
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "",
+      "subscript": "p",
+      "final_symbol": "Qp",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 51,
+    "bbox": [
+      7465,
+      4343,
+      7611,
+      4443
+    ],
+    "symbol": {
+      "base": "O",
+      "superscript": "3",
+      "subscript": "",
+      "final_symbol": "O³",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 52,
+    "bbox": [
+      6701,
+      3896,
+      6849,
+      3996
+    ],
+    "symbol": {
+      "base": "K",
+      "superscript": "γ",
+      "subscript": "π",
+      "final_symbol": "K_π^γ",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 53,
+    "bbox": [
+      6702,
+      4251,
+      6848,
+      4351
+    ],
+    "symbol": {
+      "base": "γ",
+      "superscript": "π",
+      "subscript": "δ",
+      "final_symbol": "γ^π_δ",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 55,
+    "bbox": [
+      7464,
+      1977,
+      7610,
+      2075
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "3",
+      "subscript": "",
+      "final_symbol": "Q3",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 56,
+    "bbox": [
+      7467,
+      1159,
+      7612,
+      1256
+    ],
+    "symbol": {
+      "base": "J₃",
+      "superscript": "",
+      "subscript": "3",
+      "final_symbol": "J₃",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 57,
+    "bbox": [
+      6707,
+      2804,
+      6849,
+      2906
+    ],
+    "symbol": {
+      "base": "N",
+      "superscript": "",
+      "subscript": "2m",
+      "final_symbol": "N₂m",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 59,
+    "bbox": [
+      6707,
+      1161,
+      6849,
+      1260
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "",
+      "subscript": "hs",
+      "final_symbol": "Qhs",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 60,
+    "bbox": [
+      6707,
+      3307,
+      6849,
+      3403
+    ],
+    "symbol": {
+      "base": "Cn",
+      "superscript": "",
+      "subscript": "q",
+      "final_symbol": "Cn-q",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 61,
+    "bbox": [
+      7459,
+      1274,
+      7614,
+      1376
+    ],
+    "symbol": {
+      "base": "P",
+      "superscript": "t",
+      "subscript": "2",
+      "final_symbol": "P⃤₂",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 62,
+    "bbox": [
+      6706,
+      2091,
+      6850,
+      2190
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": "2",
+      "subscript": "β",
+      "prefix": "p",
+      "final_symbol": "Qp²β",
+      "confidence": 0.98
+    }
+  }
+]

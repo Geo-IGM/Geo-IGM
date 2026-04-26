@@ -1,0 +1,1510 @@
+[
+  {
+    "legend_id": 0,
+    "gemini_text": {
+      "legend_text": "琼山组：亚粘土、有机质粘土、砂",
+      "confidence": 0.98
+    },
+    "symbol": {
+      "base": "Qhq",
+      "superscript": "2",
+      "subscript": null,
+      "final_symbol": "Qh²q",
+      "confidence": 0.99,
+      "terminal": "Qh²q"
+    },
+    "gemini_symbol": {
+      "base": "Qhq",
+      "superscript": "2",
+      "subscript": null,
+      "final_symbol": "Qh²q",
+      "confidence": 0.99,
+      "terminal": "Qh²q"
+    }
+  },
+  {
+    "legend_id": 1,
+    "gemini_text": {
+      "legend_text": "道堂组一段: 橄榄玄武岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "31",
+      "subscript": "",
+      "final_symbol": "Qp³d¹",
+      "confidence": 0.99,
+      "terminal": "Qp³d¹"
+    },
+    "gemini_symbol": {
+      "base": "Qpd",
+      "superscript": "31",
+      "subscript": "",
+      "final_symbol": "Qp³d¹",
+      "confidence": 0.99,
+      "terminal": "Qp³d¹"
+    }
+  },
+  {
+    "legend_id": 2,
+    "gemini_text": {
+      "legend_text": "海口组：粘土、粉砂质粘土、玄武质沉凝灰岩、贝壳碎屑岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Nh",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "N₂h",
+      "confidence": 0.99,
+      "terminal": "N₂h"
+    },
+    "gemini_symbol": {
+      "base": "Nh",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "N₂h",
+      "confidence": 0.99,
+      "terminal": "N₂h"
+    }
+  },
+  {
+    "legend_id": 3,
+    "gemini_text": {
+      "legend_text": "姻墩组1:砂砾、砂、粘土、海滩岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qhy",
+      "superscript": "3",
+      "subscript": null,
+      "final_symbol": "Qh³y",
+      "confidence": 0.99,
+      "terminal": "Qh³y"
+    },
+    "gemini_symbol": {
+      "base": "Qhy",
+      "superscript": "3",
+      "subscript": null,
+      "final_symbol": "Qh³y",
+      "confidence": 0.99,
+      "terminal": "Qh³y"
+    }
+  },
+  {
+    "legend_id": 4,
+    "gemini_text": {
+      "legend_text": "鹿母湾组: 砂砾岩、长石石英砂岩、粉砂岩、泥岩、安山-英安质火山岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Kl",
+      "superscript": null,
+      "subscript": "1",
+      "final_symbol": "K₁l",
+      "confidence": 0.99,
+      "terminal": "K₁l"
+    },
+    "gemini_symbol": {
+      "base": "Kl",
+      "superscript": null,
+      "subscript": "1",
+      "final_symbol": "K₁l",
+      "confidence": 0.99,
+      "terminal": "K₁l"
+    }
+  },
+  {
+    "legend_id": 5,
+    "gemini_text": {
+      "legend_text": "全新统(未分):砂砾、砂、粘土",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qh",
+      "superscript": null,
+      "subscript": "",
+      "final_symbol": "Qh",
+      "confidence": 0.99,
+      "terminal": "Qh"
+    },
+    "gemini_symbol": {
+      "base": "Qh",
+      "superscript": null,
+      "subscript": "",
+      "final_symbol": "Qh",
+      "confidence": 0.99,
+      "terminal": "Qh"
+    }
+  },
+  {
+    "legend_id": 6,
+    "gemini_text": {
+      "legend_text": "陀烈组:变质石英细砂岩、粉砂岩 绢云板岩、碳质绢云板岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "St",
+      "superscript": "",
+      "subscript": "1",
+      "final_symbol": "S₁t",
+      "confidence": 0.99,
+      "terminal": "S₁t"
+    },
+    "gemini_symbol": {
+      "base": "St",
+      "superscript": "",
+      "subscript": "1",
+      "final_symbol": "S₁t",
+      "confidence": 0.99,
+      "terminal": "S₁t"
+    }
+  },
+  {
+    "legend_id": 7,
+    "gemini_text": {
+      "legend_text": "北海组：亚砂土、砂、砂砾",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qpb",
+      "superscript": "2",
+      "subscript": null,
+      "final_symbol": "Qp²b",
+      "confidence": 0.99,
+      "terminal": "Qp²b"
+    },
+    "gemini_symbol": {
+      "base": "Qpb",
+      "superscript": "2",
+      "subscript": null,
+      "final_symbol": "Qp²b",
+      "confidence": 0.99,
+      "terminal": "Qp²b"
+    }
+  },
+  {
+    "legend_id": 8,
+    "gemini_text": {
+      "legend_text": "秀英组：粘土、亚粘土、砂、砂砾",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qpx",
+      "superscript": "1",
+      "subscript": null,
+      "final_symbol": "Qp¹x",
+      "confidence": 0.99,
+      "terminal": "Qp¹x"
+    },
+    "gemini_symbol": {
+      "base": "Qpx",
+      "superscript": "1",
+      "subscript": null,
+      "final_symbol": "Qp¹x",
+      "confidence": 0.99,
+      "terminal": "Qp¹x"
+    }
+  },
+  {
+    "legend_id": 9,
+    "gemini_text": {
+      "legend_text": "区域性大断裂",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "final_symbol": "Unknown",
+      "confidence": 0.0,
+      "base": null,
+      "superscript": null,
+      "subscript": null
+    },
+    "gemini_symbol": {
+      "final_symbol": "Unknown",
+      "confidence": 0.0,
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "terminal": "Unknown"
+    }
+  },
+  {
+    "legend_id": 10,
+    "gemini_text": {
+      "legend_text": "石英斑岩",
+      "confidence": 1.0
+    },
+    "symbol": {
+      "base": "Kλπ",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "K₂λπ",
+      "confidence": 0.99,
+      "terminal": "K₂λπ"
+    },
+    "gemini_symbol": {
+      "base": "Kλπ",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "K₂λπ",
+      "confidence": 0.99,
+      "terminal": "K₂λπ"
+    }
+  },
+  {
+    "legend_id": 11,
+    "gemini_text": {
+      "legend_text": "道堂组二段：玄武质沉岩屑晶屑凝灰岩及灰质含砾砂岩",
+      "confidence": 0.95
+    },
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "32",
+      "subscript": "",
+      "final_symbol": "Qp³d²",
+      "confidence": 0.98,
+      "terminal": "Qp³d²"
+    },
+    "gemini_symbol": {
+      "base": "Qpd",
+      "superscript": "32",
+      "subscript": "",
+      "final_symbol": "Qp³d²",
+      "confidence": 0.98,
+      "terminal": "Qp³d²"
+    }
+  },
+  {
+    "legend_id": 12,
+    "gemini_text": {
+      "legend_text": "抱板群: 石英云母片岩、长石石英岩、黑云斜长片麻岩",
+      "confidence": 0.95
+    },
+    "symbol": {
+      "base": "ChB",
+      "superscript": null,
+      "subscript": "",
+      "final_symbol": "ChB",
+      "confidence": 0.99,
+      "terminal": "ChB"
+    },
+    "gemini_symbol": {
+      "base": "ChB",
+      "superscript": null,
+      "subscript": "",
+      "final_symbol": "ChB",
+      "confidence": 0.99,
+      "terminal": "ChB"
+    }
+  },
+  {
+    "legend_id": 13,
+    "gemini_text": {
+      "legend_text": "昌头组—长昌组：砂砾岩、砂岩、泥岩、油页岩、碳质页岩、褐煤",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Ect-c",
+      "superscript": "",
+      "subscript": "1-2",
+      "final_symbol": "E₁₋₂ct-c",
+      "confidence": 0.99,
+      "terminal": "E₁₋₂ct-c"
+    },
+    "gemini_symbol": {
+      "base": "Ect-c",
+      "superscript": "",
+      "subscript": "1-2",
+      "final_symbol": "E₁₋₂ct-c",
+      "confidence": 0.99,
+      "terminal": "E₁₋₂ct-c"
+    }
+  },
+  {
+    "legend_id": 14,
+    "gemini_text": {
+      "legend_text": "同位素年龄值/同位素测定方法",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "3,042Ma/K-Ar",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "3,042Ma/K-Ar",
+      "confidence": 0.99,
+      "terminal": "3,042Ma/K-Ar"
+    },
+    "gemini_symbol": {
+      "base": "3,042Ma/K-Ar",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "3,042Ma/K-Ar",
+      "confidence": 0.99,
+      "terminal": "3,042Ma/K-Ar"
+    }
+  },
+  {
+    "legend_id": 15,
+    "gemini_text": {
+      "legend_text": "道堂组三段：橄榄玄武岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "33",
+      "subscript": "",
+      "final_symbol": "Qp³d³",
+      "confidence": 0.99,
+      "terminal": "Qp³d³"
+    },
+    "gemini_symbol": {
+      "base": "Qpd",
+      "superscript": "33",
+      "subscript": "",
+      "final_symbol": "Qp³d³",
+      "confidence": 0.99,
+      "terminal": "Qp³d³"
+    }
+  },
+  {
+    "legend_id": 16,
+    "gemini_text": {
+      "legend_text": "更新统(未分): 粘土、砂、砂砾",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qp",
+      "superscript": null,
+      "subscript": "",
+      "final_symbol": "Qp",
+      "confidence": 0.99,
+      "terminal": "Qp"
+    },
+    "gemini_symbol": {
+      "base": "Qp",
+      "superscript": null,
+      "subscript": "",
+      "final_symbol": "Qp",
+      "confidence": 0.99,
+      "terminal": "Qp"
+    }
+  },
+  {
+    "legend_id": 17,
+    "gemini_text": {
+      "legend_text": "黄铁矿化",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "钻孔",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "钻孔",
+      "confidence": 0.99,
+      "terminal": "钻孔"
+    },
+    "gemini_symbol": {
+      "base": "钻孔",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "钻孔",
+      "confidence": 0.99,
+      "terminal": "钻孔"
+    }
+  },
+  {
+    "legend_id": 18,
+    "gemini_text": {
+      "legend_text": "黑云母二长花岗岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Jnγ",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "J₂nγ",
+      "confidence": 0.95,
+      "terminal": "J₂nγ"
+    },
+    "gemini_symbol": {
+      "base": "Jnγ",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "J₂nγ",
+      "confidence": 0.95,
+      "terminal": "J₂nγ"
+    }
+  },
+  {
+    "legend_id": 19,
+    "gemini_text": {
+      "legend_text": "实(推)测地质界线",
+      "confidence": 0.95
+    },
+    "symbol": {
+      "base": "~",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "~",
+      "confidence": 0.99,
+      "terminal": "~"
+    },
+    "gemini_symbol": {
+      "base": "~",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "~",
+      "confidence": 0.99,
+      "terminal": "~"
+    }
+  },
+  {
+    "legend_id": 20,
+    "gemini_text": {
+      "legend_text": "空列村组: 石英岩、绢云石英粉细砂岩、绢云板岩、结晶灰岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Sk",
+      "superscript": null,
+      "subscript": "1",
+      "final_symbol": "S₁k",
+      "confidence": 0.99,
+      "terminal": "S₁k"
+    },
+    "gemini_symbol": {
+      "base": "Sk",
+      "superscript": null,
+      "subscript": "1",
+      "final_symbol": "S₁k",
+      "confidence": 0.99,
+      "terminal": "S₁k"
+    }
+  },
+  {
+    "legend_id": 21,
+    "gemini_text": {
+      "legend_text": "推测性质不明断层",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "虚线",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "虚线",
+      "confidence": 0.99,
+      "terminal": "虚线"
+    },
+    "gemini_symbol": {
+      "base": "虚线",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "虚线",
+      "confidence": 0.99,
+      "terminal": "虚线"
+    }
+  },
+  {
+    "legend_id": 22,
+    "gemini_text": {
+      "legend_text": "岩层产状",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "15",
+      "superscript": null,
+      "subscript": "15",
+      "final_symbol": "15",
+      "confidence": 0.98,
+      "terminal": "15"
+    },
+    "gemini_symbol": {
+      "base": "15",
+      "superscript": null,
+      "subscript": "15",
+      "final_symbol": "15",
+      "confidence": 0.98,
+      "terminal": "15"
+    }
+  },
+  {
+    "legend_id": 23,
+    "gemini_text": {
+      "legend_text": "瓦窑组：不等粒砂岩、细砾岩、泥岩 含油泥岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Ew",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "E₂w",
+      "confidence": 0.99,
+      "terminal": "E₂w"
+    },
+    "gemini_symbol": {
+      "base": "Ew",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "E₂w",
+      "confidence": 0.99,
+      "terminal": "E₂w"
+    }
+  },
+  {
+    "legend_id": 24,
+    "gemini_text": {
+      "legend_text": "实测性质不明断层",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "实线",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "实线",
+      "confidence": 0.99,
+      "terminal": "实线"
+    },
+    "gemini_symbol": {
+      "base": "实线",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "实线",
+      "confidence": 0.99,
+      "terminal": "实线"
+    }
+  },
+  {
+    "legend_id": 25,
+    "gemini_text": {
+      "legend_text": "下更新统；玄武岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qpβ",
+      "superscript": "1",
+      "subscript": null,
+      "final_symbol": "Qp¹β",
+      "confidence": 0.98,
+      "terminal": "Qp¹β"
+    },
+    "gemini_symbol": {
+      "base": "Qpβ",
+      "superscript": "1",
+      "subscript": null,
+      "final_symbol": "Qp¹β",
+      "confidence": 0.98,
+      "terminal": "Qp¹β"
+    }
+  },
+  {
+    "legend_id": 26,
+    "gemini_text": {
+      "legend_text": "道壶组四段：玄武质沉岩屑晶屑凝灰岩、沉火山角砾岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "34",
+      "subscript": "",
+      "final_symbol": "Qp³d⁴",
+      "confidence": 0.99,
+      "terminal": "Qp³d⁴"
+    },
+    "gemini_symbol": {
+      "base": "Qpd",
+      "superscript": "34",
+      "subscript": "",
+      "final_symbol": "Qp³d⁴",
+      "confidence": 0.99,
+      "terminal": "Qp³d⁴"
+    }
+  },
+  {
+    "legend_id": 27,
+    "gemini_text": {
+      "legend_text": "石英脉",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "q",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "q",
+      "confidence": 0.99,
+      "terminal": "q"
+    },
+    "gemini_symbol": {
+      "base": "q",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "q",
+      "confidence": 0.99,
+      "terminal": "q"
+    }
+  },
+  {
+    "legend_id": 28,
+    "gemini_text": {
+      "legend_text": "（角闪石）黑云母二长花岗岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "T",
+      "superscript": "nγ",
+      "subscript": "3",
+      "final_symbol": "T₃ⁿγ",
+      "confidence": 0.99,
+      "terminal": "T₃ⁿγ"
+    },
+    "gemini_symbol": {
+      "base": "T",
+      "superscript": "nγ",
+      "subscript": "3",
+      "final_symbol": "T₃ⁿγ",
+      "confidence": 0.99,
+      "terminal": "T₃ⁿγ"
+    }
+  },
+  {
+    "legend_id": 29,
+    "gemini_text": {
+      "legend_text": "地层不整合接触界线",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "逆断层",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "逆断层",
+      "confidence": 0.99,
+      "terminal": "逆断层"
+    },
+    "gemini_symbol": {
+      "base": "逆断层",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "逆断层",
+      "confidence": 0.99,
+      "terminal": "逆断层"
+    }
+  },
+  {
+    "legend_id": 30,
+    "gemini_text": {
+      "legend_text": "粉细砂、含细砾中粗砂",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qp",
+      "superscript": "3",
+      "subscript": "bs",
+      "final_symbol": "Qp³bs",
+      "confidence": 0.99,
+      "terminal": "Qp³bs"
+    },
+    "gemini_symbol": {
+      "base": "Qp",
+      "superscript": "3",
+      "subscript": "bs",
+      "final_symbol": "Qp³bs",
+      "confidence": 0.99,
+      "terminal": "Qp³bs"
+    }
+  },
+  {
+    "legend_id": 31,
+    "gemini_text": {
+      "legend_text": "混合火山锥",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "穿刺构造",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "穿刺构造",
+      "confidence": 0.98,
+      "terminal": "穿刺构造"
+    },
+    "gemini_symbol": {
+      "base": "穿刺构造",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "穿刺构造",
+      "confidence": 0.98,
+      "terminal": "穿刺构造"
+    }
+  },
+  {
+    "legend_id": 32,
+    "gemini_text": {
+      "legend_text": "辉长岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "勾号图案",
+      "confidence": 0.98,
+      "terminal": "勾号图案"
+    },
+    "gemini_symbol": {
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "勾号图案",
+      "confidence": 0.98,
+      "terminal": "勾号图案"
+    }
+  },
+  {
+    "legend_id": 33,
+    "gemini_text": {
+      "legend_text": "碎屑火山锥",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "侵入体",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "侵入体",
+      "confidence": 0.98,
+      "terminal": "侵入体"
+    },
+    "gemini_symbol": {
+      "base": "侵入体",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "侵入体",
+      "confidence": 0.98,
+      "terminal": "侵入体"
+    }
+  },
+  {
+    "legend_id": 34,
+    "gemini_text": {
+      "legend_text": "不明地质体",
+      "confidence": 1.0
+    },
+    "symbol": {
+      "final_symbol": "Unknown",
+      "confidence": 0.0,
+      "base": null,
+      "superscript": null,
+      "subscript": null
+    },
+    "gemini_symbol": {
+      "final_symbol": "Unknown",
+      "confidence": 0.0,
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "terminal": "Unknown"
+    }
+  },
+  {
+    "legend_id": 35,
+    "gemini_text": {
+      "legend_text": "花岗岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "P-T",
+      "superscript": null,
+      "subscript": "γ",
+      "final_symbol": "P-Tγ",
+      "confidence": 0.98,
+      "terminal": "P-Tγ"
+    },
+    "gemini_symbol": {
+      "base": "P-T",
+      "superscript": null,
+      "subscript": "γ",
+      "final_symbol": "P-Tγ",
+      "confidence": 0.98,
+      "terminal": "P-Tγ"
+    }
+  },
+  {
+    "legend_id": 36,
+    "gemini_text": {
+      "legend_text": "火山洼地范围",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Tectonite",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "Tectonite",
+      "confidence": 0.98,
+      "terminal": "Tectonite"
+    },
+    "gemini_symbol": {
+      "base": "Tectonite",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "Tectonite",
+      "confidence": 0.98,
+      "terminal": "Tectonite"
+    }
+  },
+  {
+    "legend_id": 37,
+    "gemini_text": {
+      "legend_text": "绿泥石化",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "⊢",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "⊢",
+      "confidence": 0.98,
+      "terminal": "⊢"
+    },
+    "gemini_symbol": {
+      "base": "⊢",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "⊢",
+      "confidence": 0.98,
+      "terminal": "⊢"
+    }
+  },
+  {
+    "legend_id": 38,
+    "gemini_text": {
+      "legend_text": "硅化",
+      "confidence": 0.95
+    },
+    "symbol": {
+      "base": "▲",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "▲",
+      "confidence": 0.99,
+      "terminal": "▲"
+    },
+    "gemini_symbol": {
+      "base": "▲",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "▲",
+      "confidence": 0.99,
+      "terminal": "▲"
+    }
+  },
+  {
+    "legend_id": 39,
+    "gemini_text": {
+      "legend_text": "实测逆断层倾向及倾角",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "地层产状",
+      "superscript": "70",
+      "subscript": null,
+      "final_symbol": "地层产状70",
+      "confidence": 0.95,
+      "terminal": "地层产状70"
+    },
+    "gemini_symbol": {
+      "base": "地层产状",
+      "superscript": "70",
+      "subscript": null,
+      "final_symbol": "地层产状70",
+      "confidence": 0.95,
+      "terminal": "地层产状70"
+    }
+  },
+  {
+    "legend_id": 40,
+    "gemini_text": {
+      "legend_text": "橄榄玄武岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "⊥⊥_",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "⊥⊥_",
+      "confidence": 0.99,
+      "terminal": "⊥⊥_"
+    },
+    "gemini_symbol": {
+      "base": "⊥⊥_",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "⊥⊥_",
+      "confidence": 0.99,
+      "terminal": "⊥⊥_"
+    }
+  },
+  {
+    "legend_id": 41,
+    "gemini_text": {
+      "legend_text": "花岗岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "火山岩符号",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "火山岩符号",
+      "confidence": 0.99,
+      "terminal": "火山岩符号"
+    },
+    "gemini_symbol": {
+      "base": "火山岩符号",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "火山岩符号",
+      "confidence": 0.99,
+      "terminal": "火山岩符号"
+    }
+  },
+  {
+    "legend_id": 42,
+    "gemini_text": {
+      "legend_text": "花岗岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Jγ",
+      "superscript": "",
+      "subscript": "2",
+      "final_symbol": "J₂γ",
+      "confidence": 0.99,
+      "terminal": "J₂γ"
+    },
+    "gemini_symbol": {
+      "base": "Jγ",
+      "superscript": "",
+      "subscript": "2",
+      "final_symbol": "J₂γ",
+      "confidence": 0.99,
+      "terminal": "J₂γ"
+    }
+  },
+  {
+    "legend_id": 43,
+    "gemini_text": {
+      "legend_text": "道堂组：玄武岩、沉凝灰岩",
+      "confidence": 0.95
+    },
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "3",
+      "subscript": "",
+      "final_symbol": "Qp³d",
+      "confidence": 0.99,
+      "terminal": "Qp³d"
+    },
+    "gemini_symbol": {
+      "base": "Qpd",
+      "superscript": "3",
+      "subscript": "",
+      "final_symbol": "Qp³d",
+      "confidence": 0.99,
+      "terminal": "Qp³d"
+    }
+  },
+  {
+    "legend_id": 44,
+    "gemini_text": {
+      "legend_text": "中性岩脉：δ 闪长岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "C",
+      "superscript": "",
+      "subscript": "1",
+      "final_symbol": "C₁",
+      "confidence": 0.95,
+      "terminal": "C₁"
+    },
+    "gemini_symbol": {
+      "base": "C",
+      "superscript": "",
+      "subscript": "1",
+      "final_symbol": "C₁",
+      "confidence": 0.95,
+      "terminal": "C₁"
+    }
+  },
+  {
+    "legend_id": 45,
+    "gemini_text": {
+      "legend_text": "玄武岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Γ",
+      "superscript": null,
+      "subscript": "二",
+      "final_symbol": "Γ_二",
+      "confidence": 0.99,
+      "terminal": "Γ_二"
+    },
+    "gemini_symbol": {
+      "base": "Γ",
+      "superscript": null,
+      "subscript": "二",
+      "final_symbol": "Γ_二",
+      "confidence": 0.99,
+      "terminal": "Γ_二"
+    }
+  },
+  {
+    "legend_id": 46,
+    "gemini_text": {
+      "legend_text": "玄武质凝灰岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "砾岩",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "砾岩",
+      "confidence": 0.98,
+      "terminal": "砾岩"
+    },
+    "gemini_symbol": {
+      "base": "砾岩",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "砾岩",
+      "confidence": 0.98,
+      "terminal": "砾岩"
+    }
+  },
+  {
+    "legend_id": 47,
+    "gemini_text": {
+      "legend_text": "实测正断层倾向及倾角",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "背斜轴迹",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "倾伏背斜轴迹，倾伏角55°",
+      "confidence": 0.98,
+      "terminal": "倾伏背斜轴迹，倾伏角55°"
+    },
+    "gemini_symbol": {
+      "base": "背斜轴迹",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "倾伏背斜轴迹，倾伏角55°",
+      "confidence": 0.98,
+      "terminal": "倾伏背斜轴迹，倾伏角55°"
+    }
+  },
+  {
+    "legend_id": 48,
+    "gemini_text": {
+      "legend_text": "熔岩火山锥",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "破火山口边缘",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "破火山口边缘",
+      "confidence": 0.95,
+      "terminal": "破火山口边缘"
+    },
+    "gemini_symbol": {
+      "base": "破火山口边缘",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "破火山口边缘",
+      "confidence": 0.95,
+      "terminal": "破火山口边缘"
+    }
+  },
+  {
+    "legend_id": 49,
+    "gemini_text": {
+      "legend_text": "二叠纪\n三叠纪",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Qp",
+      "superscript": "3sl",
+      "subscript": null,
+      "final_symbol": "Qp³ˢˡ",
+      "confidence": 0.98,
+      "terminal": "Qp³ˢˡ"
+    },
+    "gemini_symbol": {
+      "base": "Qp",
+      "superscript": "3sl",
+      "subscript": null,
+      "final_symbol": "Qp³ˢˡ",
+      "confidence": 0.98,
+      "terminal": "Qp³ˢˡ"
+    }
+  },
+  {
+    "legend_id": 50,
+    "gemini_text": {
+      "legend_text": "花岗斑岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "植物化石符号",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "植物化石符号",
+      "confidence": 0.99,
+      "terminal": "植物化石符号"
+    },
+    "gemini_symbol": {
+      "base": "植物化石符号",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "植物化石符号",
+      "confidence": 0.99,
+      "terminal": "植物化石符号"
+    }
+  },
+  {
+    "legend_id": 51,
+    "gemini_text": {
+      "legend_text": "火山口",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "⊙",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "⊙",
+      "confidence": 0.99,
+      "terminal": "⊙"
+    },
+    "gemini_symbol": {
+      "base": "⊙",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "⊙",
+      "confidence": 0.99,
+      "terminal": "⊙"
+    }
+  },
+  {
+    "legend_id": 52,
+    "gemini_text": {
+      "legend_text": "花岗斑岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Kγπ",
+      "superscript": "",
+      "subscript": "2",
+      "final_symbol": "K₂γπ",
+      "confidence": 0.99,
+      "terminal": "K₂γπ"
+    },
+    "gemini_symbol": {
+      "base": "Kγπ",
+      "superscript": "",
+      "subscript": "2",
+      "final_symbol": "K₂γπ",
+      "confidence": 0.99,
+      "terminal": "K₂γπ"
+    }
+  },
+  {
+    "legend_id": 53,
+    "gemini_text": {
+      "legend_text": "花岗闪长岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Jγδ",
+      "superscript": null,
+      "subscript": "3",
+      "final_symbol": "J₃γδ",
+      "confidence": 0.99,
+      "terminal": "J₃γδ"
+    },
+    "gemini_symbol": {
+      "base": "Jγδ",
+      "superscript": null,
+      "subscript": "3",
+      "final_symbol": "J₃γδ",
+      "confidence": 0.99,
+      "terminal": "J₃γδ"
+    }
+  },
+  {
+    "legend_id": 54,
+    "gemini_text": {
+      "legend_text": "花岗闪长岩",
+      "confidence": 0.95
+    },
+    "symbol": {
+      "base": "Jγδ",
+      "superscript": null,
+      "subscript": "3",
+      "final_symbol": "J₃γδ",
+      "confidence": 0.99,
+      "terminal": "J₃γδ"
+    },
+    "gemini_symbol": {
+      "base": "Jγδ",
+      "superscript": null,
+      "subscript": "3",
+      "final_symbol": "J₃γδ",
+      "confidence": 0.99,
+      "terminal": "J₃γδ"
+    }
+  },
+  {
+    "legend_id": 55,
+    "gemini_text": {
+      "legend_text": "酸性岩脉: γ 花岗岩, γ' 花岗细晶岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "γ",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "γ",
+      "confidence": 0.99,
+      "terminal": "γ"
+    },
+    "gemini_symbol": {
+      "base": "γ",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "γ",
+      "confidence": 0.99,
+      "terminal": "γ"
+    }
+  },
+  {
+    "legend_id": 56,
+    "gemini_text": {
+      "legend_text": "中粒斑状二长花岗岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "S",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "S₂",
+      "confidence": 0.98,
+      "terminal": "S₂"
+    },
+    "gemini_symbol": {
+      "base": "S",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "S₂",
+      "confidence": 0.98,
+      "terminal": "S₂"
+    }
+  },
+  {
+    "legend_id": 57,
+    "gemini_text": {
+      "legend_text": "石马村组一石门沟村组：玻基橄辉岩、橄榄玄武岩、辉斑橄榄玄武岩、粗玄岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "Nsm-s",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "Nsm-s",
+      "confidence": 0.99,
+      "terminal": "Nsm-s"
+    },
+    "gemini_symbol": {
+      "base": "Nsm-s",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "Nsm-s",
+      "confidence": 0.99,
+      "terminal": "Nsm-s"
+    }
+  },
+  {
+    "legend_id": 58,
+    "gemini_text": {
+      "legend_text": "火山盆地范围",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "J",
+      "superscript": null,
+      "subscript": "1",
+      "final_symbol": "J₁",
+      "confidence": 0.98,
+      "terminal": "J₁"
+    },
+    "gemini_symbol": {
+      "base": "J",
+      "superscript": null,
+      "subscript": "1",
+      "final_symbol": "J₁",
+      "confidence": 0.98,
+      "terminal": "J₁"
+    }
+  },
+  {
+    "legend_id": 59,
+    "gemini_text": {
+      "legend_text": "石山组:橄榄玄武岩、含火山角砾橄榄玄武岩",
+      "confidence": 0.98
+    },
+    "symbol": {
+      "base": "Qhs",
+      "superscript": "1",
+      "subscript": "",
+      "final_symbol": "Qh¹s",
+      "confidence": 0.99,
+      "terminal": "Qh¹s"
+    },
+    "gemini_symbol": {
+      "base": "Qhs",
+      "superscript": "1",
+      "subscript": "",
+      "final_symbol": "Qh¹s",
+      "confidence": 0.99,
+      "terminal": "Qh¹s"
+    }
+  },
+  {
+    "legend_id": 60,
+    "gemini_text": {
+      "legend_text": "南好组—青天峡组：砾岩、砂岩、板岩、结晶灰岩",
+      "confidence": 0.98
+    },
+    "symbol": {
+      "base": "C-q",
+      "superscript": null,
+      "subscript": "n",
+      "final_symbol": "Cn-q",
+      "confidence": 0.99,
+      "terminal": "Cn-q"
+    },
+    "gemini_symbol": {
+      "base": "C-q",
+      "superscript": null,
+      "subscript": "n",
+      "final_symbol": "Cn-q",
+      "confidence": 0.99,
+      "terminal": "Cn-q"
+    }
+  },
+  {
+    "legend_id": 61,
+    "gemini_text": {
+      "legend_text": "中细粒二长花岗岩",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "final_symbol": "Unknown",
+      "confidence": 0.0,
+      "base": null,
+      "superscript": null,
+      "subscript": null
+    },
+    "gemini_symbol": {
+      "final_symbol": "Unknown",
+      "confidence": 0.0,
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "terminal": "Unknown"
+    }
+  },
+  {
+    "legend_id": 62,
+    "gemini_text": {
+      "legend_text": "中更新统：玄武岩",
+      "confidence": 0.95
+    },
+    "symbol": {
+      "base": "Qp",
+      "superscript": "2β",
+      "subscript": null,
+      "final_symbol": "Qp²β",
+      "confidence": 0.99,
+      "terminal": "Qp²β"
+    },
+    "gemini_symbol": {
+      "base": "Qp",
+      "superscript": "2β",
+      "subscript": null,
+      "final_symbol": "Qp²β",
+      "confidence": 0.99,
+      "terminal": "Qp²β"
+    }
+  },
+  {
+    "legend_id": 63,
+    "gemini_text": {
+      "legend_text": "隐伏或物探推测断层",
+      "confidence": 0.99
+    },
+    "symbol": {
+      "base": "粗面结构符号",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "粗面结构符号",
+      "confidence": 0.98,
+      "terminal": "粗面结构符号"
+    },
+    "gemini_symbol": {
+      "base": "粗面结构符号",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "粗面结构符号",
+      "confidence": 0.98,
+      "terminal": "粗面结构符号"
+    }
+  },
+  {
+    "legend_id": 64,
+    "gemini_text": {
+      "legend_text": "花岗岩",
+      "confidence": 0.99
+    },
+    "symbol": [
+      {
+        "base": "K",
+        "superscript": "γ",
+        "subscript": "1",
+        "final_symbol": "K₁γ",
+        "confidence": 0.99
+      },
+      {
+        "base": "K",
+        "superscript": "γδ",
+        "subscript": "1",
+        "final_symbol": "K₁γδ",
+        "confidence": 0.99
+      }
+    ],
+    "gemini_symbol": [
+      {
+        "base": "K",
+        "superscript": "γ",
+        "subscript": "1",
+        "final_symbol": "K₁γ",
+        "confidence": 0.99
+      },
+      {
+        "base": "K",
+        "superscript": "γδ",
+        "subscript": "1",
+        "final_symbol": "K₁γδ",
+        "confidence": 0.99
+      }
+    ]
+  }
+]

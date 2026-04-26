@@ -1,0 +1,1035 @@
+[
+  {
+    "legend_id": 0,
+    "bbox": [
+      6707,
+      1044,
+      6851,
+      1141
+    ],
+    "symbol": {
+      "base": "Qhq",
+      "superscript": "2",
+      "subscript": null,
+      "final_symbol": "Qh²q",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 1,
+    "bbox": [
+      6706,
+      1971,
+      6850,
+      2068
+    ],
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "31",
+      "subscript": "",
+      "final_symbol": "Qp³d¹",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 2,
+    "bbox": [
+      6705,
+      2683,
+      6847,
+      2780
+    ],
+    "symbol": {
+      "base": "N",
+      "superscript": "h",
+      "subscript": "2",
+      "final_symbol": "N₂h",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 3,
+    "bbox": [
+      6707,
+      929,
+      6852,
+      1024
+    ],
+    "symbol": {
+      "base": "Qhy",
+      "superscript": "3",
+      "subscript": null,
+      "final_symbol": "Qh³y",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 4,
+    "bbox": [
+      6706,
+      3185,
+      6849,
+      3284
+    ],
+    "symbol": {
+      "base": "K",
+      "superscript": "l",
+      "subscript": "1",
+      "final_symbol": "K₁l",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 5,
+    "bbox": [
+      6707,
+      1286,
+      6848,
+      1382
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": null,
+      "subscript": "h",
+      "final_symbol": "Qh",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 6,
+    "bbox": [
+      6705,
+      3551,
+      6846,
+      3644
+    ],
+    "symbol": {
+      "base": "S",
+      "superscript": null,
+      "subscript": "1t",
+      "final_symbol": "S₁t",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 7,
+    "bbox": [
+      6705,
+      2210,
+      6848,
+      2307
+    ],
+    "symbol": {
+      "base": "Qpb",
+      "superscript": "2",
+      "subscript": null,
+      "final_symbol": "Qp²b",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 8,
+    "bbox": [
+      6705,
+      2444,
+      6848,
+      2544
+    ],
+    "symbol": {
+      "base": "Qpx",
+      "superscript": "1",
+      "subscript": null,
+      "final_symbol": "Qp¹x",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 9,
+    "bbox": [
+      7460,
+      2927,
+      7605,
+      3025
+    ],
+    "symbol": {
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "",
+      "confidence": 1.0
+    }
+  },
+  {
+    "legend_id": 10,
+    "bbox": [
+      6703,
+      3780,
+      6848,
+      3875
+    ],
+    "symbol": {
+      "base": "Kλπ",
+      "superscript": "2",
+      "subscript": "2",
+      "final_symbol": "K₂λ²π",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 11,
+    "bbox": [
+      6706,
+      1853,
+      6851,
+      1951
+    ],
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "32",
+      "subscript": "",
+      "final_symbol": "Qp³d²",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 12,
+    "bbox": [
+      6704,
+      3666,
+      6847,
+      3759
+    ],
+    "symbol": {
+      "base": "ChB",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "ChB",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 13,
+    "bbox": [
+      6706,
+      3056,
+      6849,
+      3159
+    ],
+    "symbol": {
+      "base": "E",
+      "superscript": "ct-c",
+      "subscript": "1-2",
+      "final_symbol": "E₁₋₂ct-c",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 14,
+    "bbox": [
+      7464,
+      4462,
+      7612,
+      4561
+    ],
+    "symbol": {
+      "base": "",
+      "superscript": "3.042Ma",
+      "subscript": "K-Ar",
+      "final_symbol": "3.042Ma/K-Ar",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 15,
+    "bbox": [
+      6707,
+      1734,
+      6851,
+      1831
+    ],
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "33",
+      "subscript": "",
+      "final_symbol": "Qp³d³",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 16,
+    "bbox": [
+      6705,
+      2566,
+      6848,
+      2662
+    ],
+    "symbol": {
+      "base": "Q",
+      "superscript": null,
+      "subscript": "p",
+      "final_symbol": "Qp",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 17,
+    "bbox": [
+      7464,
+      4114,
+      7607,
+      4209
+    ],
+    "symbol": {
+      "base": "γ",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "γ",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 18,
+    "bbox": [
+      6704,
+      4488,
+      6849,
+      4585
+    ],
+    "symbol": {
+      "base": "Jnγ",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "J₂nγ",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 19,
+    "bbox": [
+      7459,
+      3048,
+      7606,
+      3147
+    ],
+    "symbol": {
+      "base": "γ",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "γ",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 20,
+    "bbox": [
+      6706,
+      3429,
+      6847,
+      3527
+    ],
+    "symbol": {
+      "base": "S",
+      "superscript": "",
+      "subscript": "1k",
+      "final_symbol": "S1k",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 21,
+    "bbox": [
+      7464,
+      2686,
+      7606,
+      2783
+    ],
+    "symbol": {
+      "base": "虚线",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "虚线",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 22,
+    "bbox": [
+      7461,
+      3291,
+      7608,
+      3388
+    ],
+    "symbol": {
+      "base": "15",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "15",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 23,
+    "bbox": [
+      6706,
+      2931,
+      6848,
+      3032
+    ],
+    "symbol": {
+      "base": "E",
+      "superscript": null,
+      "subscript": "2w",
+      "final_symbol": "E₂w",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 24,
+    "bbox": [
+      7462,
+      2566,
+      7607,
+      2665
+    ],
+    "symbol": {
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 25,
+    "bbox": [
+      6705,
+      2326,
+      6847,
+      2424
+    ],
+    "symbol": {
+      "base": "Qp",
+      "superscript": "1β",
+      "subscript": "",
+      "final_symbol": "Qp¹β",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 26,
+    "bbox": [
+      6708,
+      1621,
+      6851,
+      1714
+    ],
+    "symbol": {
+      "base": "Qd",
+      "superscript": "34",
+      "subscript": "p",
+      "final_symbol": "Qp³d⁴",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 27,
+    "bbox": [
+      7463,
+      1861,
+      7609,
+      1958
+    ],
+    "symbol": {
+      "base": "q",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "q",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 28,
+    "bbox": [
+      6705,
+      4611,
+      6850,
+      4708
+    ],
+    "symbol": {
+      "base": "Tγ",
+      "superscript": "n",
+      "subscript": "3",
+      "final_symbol": "T₃ⁿγ",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 29,
+    "bbox": [
+      7460,
+      3170,
+      7607,
+      3268
+    ],
+    "symbol": {
+      "base": "不整合面",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "不整合面",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 30,
+    "bbox": [
+      6708,
+      1401,
+      6848,
+      1496
+    ],
+    "symbol": {
+      "base": "Qpbs",
+      "superscript": "3",
+      "subscript": "",
+      "final_symbol": "Qp3bs",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 31,
+    "bbox": [
+      7463,
+      3878,
+      7609,
+      3975
+    ],
+    "symbol": {
+      "base": "逆时针旋转的穹窿构造（底辟构造）",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "逆时针旋转的穹窿构造（底辟构造）",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 32,
+    "bbox": [
+      7460,
+      2213,
+      7610,
+      2310
+    ],
+    "symbol": {
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": null,
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 33,
+    "bbox": [
+      7462,
+      3761,
+      7608,
+      3858
+    ],
+    "symbol": {
+      "base": "洼地",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "洼地",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 34,
+    "bbox": [
+      7463,
+      4584,
+      7614,
+      4687
+    ],
+    "symbol": {
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": null,
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 35,
+    "bbox": [
+      7456,
+      797,
+      7607,
+      905
+    ],
+    "symbol": {
+      "base": "P-γ",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "P-γ",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 36,
+    "bbox": [
+      7463,
+      3408,
+      7610,
+      3502
+    ],
+    "symbol": {
+      "base": "角砾岩",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "角砾岩",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 37,
+    "bbox": [
+      7465,
+      4229,
+      7607,
+      4321
+    ],
+    "symbol": {
+      "base": "红旗",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "红旗",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 38,
+    "bbox": [
+      7463,
+      3999,
+      7608,
+      4094
+    ],
+    "symbol": {
+      "base": "△",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "△",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 39,
+    "bbox": [
+      7460,
+      2444,
+      7608,
+      2545
+    ],
+    "symbol": {
+      "base": "倒转地层产状",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "倒转地层产状（倾角70°）",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 40,
+    "bbox": [
+      7458,
+      1623,
+      7611,
+      1723
+    ],
+    "symbol": {
+      "base": "片理与线理",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "片理与线理",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 41,
+    "bbox": [
+      7464,
+      1043,
+      7609,
+      1142
+    ],
+    "symbol": {
+      "base": "黑色梯形火山锥符号",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "黑色梯形火山锥符号",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 42,
+    "bbox": [
+      6703,
+      4369,
+      6848,
+      4465
+    ],
+    "symbol": {
+      "base": "J",
+      "superscript": "γ",
+      "subscript": "2",
+      "final_symbol": "J₂γ",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 43,
+    "bbox": [
+      6708,
+      1513,
+      6849,
+      1606
+    ],
+    "symbol": {
+      "base": "Qpd",
+      "superscript": "3",
+      "subscript": "",
+      "final_symbol": "Qp³d",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 44,
+    "bbox": [
+      7461,
+      2095,
+      7611,
+      2192
+    ],
+    "symbol": {
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": null,
+      "confidence": 1.0
+    }
+  },
+  {
+    "legend_id": 45,
+    "bbox": [
+      7457,
+      1504,
+      7612,
+      1606
+    ],
+    "symbol": {
+      "base": "T",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "T₂",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 46,
+    "bbox": [
+      7460,
+      1743,
+      7610,
+      1842
+    ],
+    "symbol": {
+      "base": "水平层理与半填充砾石",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "水平层理与半填充砾石",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 47,
+    "bbox": [
+      7460,
+      2328,
+      7608,
+      2427
+    ],
+    "symbol": {
+      "base": "55",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "倒转地层走向和倾向，55°",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 48,
+    "bbox": [
+      7463,
+      3644,
+      7607,
+      3739
+    ],
+    "symbol": {
+      "base": "角砾岩",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "角砾岩",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 50,
+    "bbox": [
+      7460,
+      929,
+      7607,
+      1026
+    ],
+    "symbol": {
+      "base": "油气井",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "油气井",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 51,
+    "bbox": [
+      7465,
+      4343,
+      7611,
+      4443
+    ],
+    "symbol": {
+      "base": "⊙",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "⊙",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 52,
+    "bbox": [
+      6701,
+      3896,
+      6849,
+      3996
+    ],
+    "symbol": {
+      "base": "Kyπ",
+      "superscript": null,
+      "subscript": "2",
+      "final_symbol": "K₂yπ",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 53,
+    "bbox": [
+      6702,
+      4251,
+      6848,
+      4351
+    ],
+    "symbol": {
+      "base": "Jγδ",
+      "superscript": null,
+      "subscript": "3",
+      "final_symbol": "J₃γδ",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 54,
+    "bbox": [
+      7457,
+      1391,
+      7612,
+      1494
+    ],
+    "symbol": {
+      "base": "",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "legend_id": 55,
+    "bbox": [
+      7464,
+      1977,
+      7610,
+      2075
+    ],
+    "symbol": {
+      "base": "透镜体",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "透镜体",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 56,
+    "bbox": [
+      7467,
+      1159,
+      7612,
+      1256
+    ],
+    "symbol": {
+      "base": "C-P",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "C-P",
+      "confidence": 0.95
+    }
+  },
+  {
+    "legend_id": 57,
+    "bbox": [
+      6707,
+      2804,
+      6849,
+      2906
+    ],
+    "symbol": {
+      "base": "Nsm-s",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "Nsm-s",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 58,
+    "bbox": [
+      7464,
+      3524,
+      7607,
+      3623
+    ],
+    "symbol": {
+      "base": "",
+      "superscript": "",
+      "subscript": "",
+      "final_symbol": "",
+      "confidence": 1.0
+    }
+  },
+  {
+    "legend_id": 59,
+    "bbox": [
+      6707,
+      1161,
+      6849,
+      1260
+    ],
+    "symbol": {
+      "base": "Qhs",
+      "superscript": "1",
+      "subscript": "",
+      "final_symbol": "Qh¹s",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 60,
+    "bbox": [
+      6707,
+      3307,
+      6849,
+      3403
+    ],
+    "symbol": {
+      "base": "C",
+      "superscript": null,
+      "subscript": "n-q",
+      "final_symbol": "Cn-q",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 61,
+    "bbox": [
+      7459,
+      1274,
+      7614,
+      1376
+    ],
+    "symbol": {
+      "base": null,
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": null,
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 62,
+    "bbox": [
+      6706,
+      2091,
+      6850,
+      2190
+    ],
+    "symbol": {
+      "base": "Qpβ",
+      "superscript": "2",
+      "subscript": null,
+      "final_symbol": "Qp²β",
+      "confidence": 0.99
+    }
+  },
+  {
+    "legend_id": 63,
+    "bbox": [
+      7462,
+      2805,
+      7604,
+      2905
+    ],
+    "symbol": {
+      "base": "//→",
+      "superscript": null,
+      "subscript": null,
+      "final_symbol": "//→",
+      "confidence": 0.98
+    }
+  },
+  {
+    "legend_id": 64,
+    "bbox": [
+      6700,
+      4042,
+      6846,
+      4237
+    ],
+    "symbol": [
+      {
+        "base": "K",
+        "superscript": "γ",
+        "subscript": "1",
+        "final_symbol": "K₁γ",
+        "confidence": 0.99
+      },
+      {
+        "base": "K",
+        "superscript": "γδ",
+        "subscript": "1",
+        "final_symbol": "K₁γδ",
+        "confidence": 0.99
+      }
+    ]
+  }
+]
