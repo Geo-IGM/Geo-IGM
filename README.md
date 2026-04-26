@@ -2,7 +2,7 @@
 
  
 
-![img](images/sample.png) 
+![img](data/sample.png) 
 
 ## *Overview*
 
